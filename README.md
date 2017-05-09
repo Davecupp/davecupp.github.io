@@ -10,7 +10,7 @@
    
    <header>
      <center>
-     <img class="img-triangle" src="" height="250" width="250">
+     <img href= "vhttps://avatars1.githubusercontent.com/u/28266763?v=3&u=dd5aaa11874fda4cfcb15ccc12a350c67b50fd15&s=400" lass="img-triangle" src="" height="250" width="250">
      <h1>J. David Cupp</h1>
      </center>
    </header>
