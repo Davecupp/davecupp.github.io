@@ -1,6 +1,9 @@
-head {
+header {
 	color: blue;
 	font: Georgia;
+}
+head {
+	color: black;
 }
 h3 {
 	color: red;
