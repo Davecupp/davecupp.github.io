@@ -5,6 +5,9 @@ header {
 head {
 	color: black;
 }
+Body {
+	color: blue;
+}
 h3 {
 	color: red;
 	background-color: black;
